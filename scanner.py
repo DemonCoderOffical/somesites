@@ -30,3 +30,4 @@ if __name__ == "__main__":
     else:
         target = input("Enter Website URL to scan: ")
         scan_website(target)
+#then press ctrl + o then enter then ctrl + x and type "chmod +x scanner.py
