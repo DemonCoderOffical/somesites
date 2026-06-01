@@ -91,7 +91,7 @@ if __name__ == "__main__":
                     port = int(cmd)
                     scan_port(target, port)
                 except:
-                    print("[-] Invalid input. Type 'help' for guidance.")
+                    print("[-] Invalid input. Type 'help' for more info.")
 
         elif choice.lower() == 'e':
             print("[!] Exiting...")
